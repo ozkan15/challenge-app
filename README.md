@@ -3,6 +3,7 @@ Demo Link: https://ozkan15.github.io/challenge-app/
 Installation Instruction;
 
 1)Download sample-json repository
+
 2)run the "server.js" in  sample-json folder in order to start the API server.
 
 
