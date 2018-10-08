@@ -1,10 +1,18 @@
-Project Link: https://ozkan15.github.io/challenge-app/
+Demo Link: https://ozkan15.github.io/challenge-app/
 
-Installation Instruction:
+Installation Instruction;
+
 1)Download sample-json repository
-2)run the "server.js" in "node-rest-api" folder in order to start the API server.
+2)run the "server.js" in  sample-json folder in order to start the API server.
 
 
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
