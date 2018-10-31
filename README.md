@@ -1,4 +1,4 @@
-Demo Link: https://ozkan15.github.io/challenge-app/
+Demo Link: https://ozkan15.github.io/streaming-app/
 
 Installation Instruction;
 
